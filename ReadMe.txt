@@ -1,4 +1,4 @@
-Iris Dataset is a classical Data set used in Classificaation in Machine Learning for who are getting started in Machine Learning.
+Iris Dataset is a classical Data set used in Classification in Machine Learning for who are getting started in Machine Learning.
 
 Iris Dataset Contains Three Species 
 
